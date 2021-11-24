@@ -1,0 +1,3 @@
+images/*
+!images/ltg_logo_email.png
+!.gitignore
